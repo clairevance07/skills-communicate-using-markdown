@@ -10,3 +10,7 @@
 ```python
 variable = 'Hello, world!'
 ```
+
+- [ ] Finish this tutorial
+- [ ] Write a response about what I learned
+- [ ] Turn in the assignment
