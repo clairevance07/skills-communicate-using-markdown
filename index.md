@@ -6,3 +6,7 @@
 ###### This one must be smaller than normal text!
 
 ![Image of an adorable harp seal!](https://rangerrick.org/wp-content/uploads/2018/04/FEB-2013-HarpSeals.jpg)
+
+```python
+variable = 'Hello, world!'
+```
